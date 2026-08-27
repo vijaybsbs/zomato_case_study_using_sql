@@ -78,8 +78,7 @@ Important fields include:
 Zomato-Data-Analysis/
 │
 ├── Zomato.xlsx
-├── Zomato_SQL_Case_Study.ipynb
-├── Zomato_Case_Study_Continuation_EDA_Advanced.ipynb
+├── Zomato_Market Analysis & Business Question using SQL.ipynb
 └── README.md
 ```
 
