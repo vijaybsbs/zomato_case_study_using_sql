@@ -211,33 +211,6 @@ The segmentation considers:
 
 > These are analytical categories created for this project and are not official Zomato classifications.
 
-## Value-for-Money Analysis
-
-The project identifies restaurants combining:
-- High rating
-- Strong customer engagement
-- Relatively affordable cost
-
-## City Market Profile
-
-Cities are compared using:
-- Restaurant count
-- Average rating
-- Average votes
-- Total votes
-- Average cost
-- Online delivery adoption
-
-## Market Opportunity Score
-
-A project-defined **Market Opportunity Score** combines:
-- Delivery gap
-- Customer demand
-- Restaurant density
-- Average rating
-
-This is a portfolio-project analytical framework and **not an official Zomato metric**.
-
 ---
 
 # Business Recommendations
